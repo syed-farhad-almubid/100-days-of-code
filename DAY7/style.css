@@ -1,0 +1,17 @@
+body{
+    font-family: "montserrat";
+}
+
+/* Utility classess */
+
+.text-red{
+    color: #f00;
+}
+
+.bg-purple{
+    background-color: #800080;
+}
+
+.text-center {
+    text-align: center;
+}
