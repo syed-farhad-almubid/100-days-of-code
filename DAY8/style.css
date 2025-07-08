@@ -1,0 +1,35 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.text-blue{
+    color: #00f;
+}
+
+/* h2,p{ */
+    /* color: rebeccapurple; */
+/* } */
+
+/* Descendant selector */
+main section p{
+    color: #f00;
+}
+
+
+main .main-content-section2 p{
+    color: green;
+}
+
+/* child selector */
+.main-content-section4 > h2{
+    color: brown;
+}
+
+/* adjacent sibling selector */
+/* .main-content-section5 > h3+h3{ */
+    /* color: #00f; */
+/* } */
+
+.main-content-section5 > h3~h3{
+    color: #f00;
+}
