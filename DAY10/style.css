@@ -1,0 +1,40 @@
+a:link{
+    color: brown;
+ }
+ 
+ a:visited{
+    color: rebeccapurple;
+ }
+ 
+ a:hover{
+    color: burlywood;
+ }
+ 
+ a:active{
+    color: yellowgreen;
+ }
+ 
+ input:focus{
+    padding: 5px;
+    color: #f00;
+ }
+ 
+ p:first-child{
+    color: blue;
+ }
+ 
+ p:first-of-type{
+    color: lightblue;
+ }
+ 
+ p:last-child{
+    color: green;
+ }
+ 
+ p:last-of-type{
+    color: aquamarine;
+ }
+ 
+ p:nth-child(3){
+    color: burlywood;
+ }
