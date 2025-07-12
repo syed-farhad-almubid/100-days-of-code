@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .container {
+    display: flex;
+    width: 100%;
+    margin: 50px auto;
+    border: 3px solid #333;
+    height: 150px;
+  }
+
+  .box {
+    flex: 1;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 150px;
+  }
+
+.box1 { 
+    background-color: teal; 
+}
+.box2 { 
+    background-color: tomato; 
+}
+.box3 { 
+    background-color: purple; 
+}
+.box4 {
+     background-color: goldenrod; 
+}
+.box5 { 
+    background-color: steelblue; 
+}
+
+.container .box:hover {
+          flex: 1; 
+}
+
+.container .box:hover {
+    flex: 3;
+}
