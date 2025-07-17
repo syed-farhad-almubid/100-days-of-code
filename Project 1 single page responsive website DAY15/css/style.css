@@ -1,0 +1,276 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 0.2rem;
+}
+
+.header{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/header-image.jpg);
+    height: 95vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flow-root;
+    overflow: auto;
+}
+
+.header .navbar .logo h1{
+    color: #fff;
+    font-size: 3.5rem;
+}
+
+.navbar .nav-links li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.6rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80%;
+    margin: 2.5rem auto;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    display: inline-block;
+    padding: 1rem;
+}
+
+ul li a{
+    padding-bottom: 0.3rem;
+}
+
+ul li a:hover{
+    border-bottom: 0.1rem solid #fff;
+}
+
+.header-content{
+    color: #fff;
+    min-height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 8rem;
+}
+
+.header-content .header-content-wrapper{
+    display: flex;
+    flex-direction: column;
+    min-height: auto;
+}
+
+.header-content .header-content-wrapper h2{
+    font-size: 3rem;
+    margin:1rem 0;
+    text-align: center;
+}
+
+.header-content .header-content-wrapper p{
+    font-size: 1.6rem;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.button-wrapper{
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.button-wrapper a{
+    color: #f00;
+    background-color: #fff;
+    padding:1.1rem 1.8rem;
+    border-radius: 3rem;
+    font-size: 1.4rem;
+    text-decoration: none;
+    transition: 0.3s;
+
+}
+
+.button-wrapper a:hover{
+    color: #fff;
+    background: #f00;
+}
+
+/* main content styling */
+
+.main{
+    background-color: #ddd;
+    padding: 10rem 0;
+}
+
+.main-container1{
+    max-width: 80%;
+    margin: auto;
+    display: flex;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #00000057;
+}
+
+.main #m-100{
+    margin-bottom: 10rem;
+}
+
+.image-wrapper{
+    width: 50%;
+}
+
+.image-wrapper img{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.content-wrapper{
+    width: 50%;
+    padding: 3rem;
+}
+
+.content-wrapper h2{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.content-wrapper p{
+    font-size: 1.6rem;
+}
+
+.btn{
+    border: 3px solid #f00;
+    border-radius: 1.7rem;
+    background-color: #fff;
+    color: #f00;
+    text-decoration: none;
+    font-size: 1.6rem;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    margin: 1.5rem 0;
+    transition: 0.3s;
+    
+}
+
+.content-wrapper a:hover{
+    color: #fff;
+    background: #f00;
+}
+
+/* section 3 styling */
+
+.section3{
+    padding: 10rem 0;
+}
+
+.section3-container{
+    max-width: 80%;
+    margin: auto;
+    height: auto;
+    display: flex;
+    box-shadow:  5px 5px 10px #00000057;
+}
+
+.section3-content{
+    background-color: #263238;
+    color: #fff;
+    padding: 2rem;
+    width: 33.3%;
+    border: 0.2rem solid red;
+}
+
+.section3-content p{
+    font-size: 1.6rem;
+    text-align: center;
+    line-height: 2.5rem;
+}
+
+.section3-content h2{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    
+}
+
+/* footer styling */
+
+.footer{
+    padding: 3rem 0;
+    background-color: #263238;
+}
+
+.icon-bar{
+    text-align: center;
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+.footer-content{
+    text-align: center;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+    color: #fff;
+}
+
+.footer .icon-bar i{
+    padding: 0rem 0.5rem;
+}
+
+.footer .icon-bar a{
+    color: #fff;
+}
+
+.footer .icon-bar a i:hover{
+    color: bisque;
+}
+
+/* media queries */
+
+@media (max-width:550px) {
+
+    html{
+        font-size: 50%;
+    }
+
+    .header .navbar{
+        flex-direction: column;
+    }
+
+    .main .main-container1{
+        flex-direction: column;
+    }
+
+    .main .main-container1 .image-wrapper{
+        width: 100%;
+    }
+
+    .main .main-container1 .content-wrapper{
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width:768px)  {
+    .section3 .section3-container{
+        flex-direction: column;
+    }
+
+    .section3 .section3-container .section3-content{
+        width: 100%;
+    }    
+}
