@@ -10,6 +10,7 @@ This repository tracks my journey of learning full-stack web development.
 - Created a basic HTML form with input fields and attributes like name , placeholder , id and required
 - ✅ Day 5: Practiced HTML div and span tag
 - practiced a html table with colspan and rowspan
+- ✅ Day 15: Today I created a fully responsive single page website
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
