@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+    background-color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-content{
+    width: 50vw;
+}
+
+.image-wrapper{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 155px;
+    background-color: royalblue;
+}
+
+.content-wrapper{
+    height: 300px;
+    background-color: #fff;
+    padding: 50px 0;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.profile-card{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    position: relative;
+    top: 35px;
+}
+
+.profile-card img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.content-inside{
+    max-width: 80%;
+    margin: auto;
+}
+
+.content-inside h2{
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+.icon-bar{
+    text-align: center;
+    font-size: 20px;
+}
+
+.icon-bar i{
+    padding: 10px 8px;
+    color: blue;
+}
+
+.icon-bar #twitter{
+    color: #1E90FF;
+}
+
+.icon-bar #youtube{
+    color: red;
+}
+
+.icon-bar #insta{
+    color: brown;
+}
+
+.link{
+    padding: 5px 25px;
+    border-radius: 60px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    background-color: royalblue;
+
+}
+
+.buttons-wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 13px 0;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.footer1{
+    display: flex;
+    align-items: center;
+    align-items: cente;
+    border-right: 1px solid black;
+    margin-bottom: 5px;
+
+}
+
+.footer1 i{
+    padding-right: 10px;
+
+}
+.footer1 p{
+    padding-right: 13px;
+}
+
+.content-inside p{
+    text-align: center;
+}
+
+@media (max-width:500px) { 
+    .wrapper .wrapper-content{
+        width: 70vw;
+    }
+    
+}
+
+@media (max-width:456px) { 
+    .wrapper .wrapper-content{
+        width: 90vw;
+    }
+    
+}
