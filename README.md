@@ -11,6 +11,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 5: Practiced HTML div and span tag
 - practiced a html table with colspan and rowspan
 - ✅ Day 15: Today I created a fully responsive single page website
+- ✅ Day 18 : Today I practiced CSS animations
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
