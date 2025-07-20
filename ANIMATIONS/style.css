@@ -1,0 +1,27 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    animation-name: moving-ball;
+    position: relative;
+    animation: moving-ball 2s linear forwards;
+}
+
+@keyframes moving-ball {
+    0%{
+        top:0;
+    }
+    25%{
+        top: 100px;
+    }
+    50%{
+        top:200px;
+    }
+    75%{
+        top: 400px;
+    }
+    100%{
+        top: 800px;
+    }
+}
