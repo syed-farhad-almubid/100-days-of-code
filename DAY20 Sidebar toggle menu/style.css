@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sidebar-toggle{
+    position: relative;
+    height: 300px;
+}
+
+.list-items{
+    border: 2px solid;
+}
+
+.sidebar-toggle input[type = "checkbox"]:checked ~ .list-items{
+    display: block;
+    left: 0;
+}
+
+ul{
+    background-color: black;
+    width: 30%;
+    list-style: none;
+    position: absolute;
+    top: 0;
+    left: -30%;
+    transition: all 0.5s ease-in-out;
+}
+
+ul li{
+    padding: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.main-content{
+    padding: 10px;
+}
+
+i{
+    color: white;
+    font-size: 24px;
+}
+
+#cross{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sidebar-toggle #bar{
+    color: black;
+    padding: 12px;
+}
+
+input{
+    display: none;
+}
+
+@media (max-width:500px) {
+    ul {
+        width: 40%;
+        left: -40%;
+    }
+}
+
