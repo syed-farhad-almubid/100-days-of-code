@@ -14,6 +14,9 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 18 : Today I practiced CSS animations
 - ✅ Day 19 : Today I practiced overlay hover animations
 - ✅ Day 20 : Today I practiced responsive hamburger menu
+- ✅ Day 21 : Today I practiced grid
+- ✅ Day 22 : Today I created a responsive image gallery layout using Grid
+
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
