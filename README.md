@@ -16,6 +16,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 20 : Today I practiced responsive hamburger menu
 - ✅ Day 21 : Today I practiced grid
 - ✅ Day 22 : Today I created a responsive image gallery layout using Grid
+- ✅ Day 23 : Today I created a masonry layout using Grid
 
 
 
