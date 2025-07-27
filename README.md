@@ -18,6 +18,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 22 : Today I created a responsive image gallery layout using Grid
 - ✅ Day 23 : Today I created a masonry layout using Grid
 - ✅ Day 24 : Today I stepped into javascript learned basics like variable,keywords,let,const,var,data types
+- ✅ Day 25 : Practiced data types, operators, truthy/falsy values, typeof, NaN and more in JavaScript
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
