@@ -21,6 +21,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 25 : Practiced data types, operators, truthy/falsy values, typeof, NaN and more in JavaScript
 - ✅ Day 26 : Practiced control flow and loops
 - ✅ Day 27 : Practiced functions
+- ✅ Day 28 : Practiced some other concepts of function
 
 
 
