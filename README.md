@@ -22,6 +22,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 26 : Practiced control flow and loops
 - ✅ Day 27 : Practiced functions
 - ✅ Day 28 : Practiced some other concepts of function
+- ✅ Day 29 : Practiced array
 
 
 
