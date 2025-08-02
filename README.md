@@ -23,7 +23,8 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 27 : Practiced functions
 - ✅ Day 28 : Practiced some other concepts of function
 - ✅ Day 29 : Practiced array
-
+- ✅ Day 30 : Practiced some important array methods
+- ✅ Day 31 : Practiced objects
 
 
 
