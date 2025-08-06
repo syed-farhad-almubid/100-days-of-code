@@ -28,6 +28,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 32 : Practiced methods
 - ✅ Day 33 : Practiced functions , arrays and object that I have learned recently
 - ✅ Day 34 : Practiced array of objects and array methods
+- ✅ Day 35 : Practiced prototypal inheritance and factory function
 
 
 
