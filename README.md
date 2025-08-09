@@ -31,6 +31,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 35 : Practiced prototypal inheritance and factory function
 - ✅ Day 36 : Practiced DOM
 - ✅ Day 37 : Practiced DOM traversal
+- ✅ Day 38 : Building a random color generator using html css and javascript
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
