@@ -1,0 +1,60 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    max-width: 1200px;
+    width: 70%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.wrapper h2{
+    /* border: 1px solid blue; */
+    margin-bottom: 8px;
+}
+
+
+.wrapper .container input{
+    width: 80%;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.wrapper .container button{
+    flex: 1;
+    padding: 10px;
+    background-color: #444;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.container .todo{
+    display: flex;
+    gap: 10px;
+}
+
+.newadd{
+    font-size: 17px;
+    text-align: left;
+    background-color: #444;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.newadd .newadd-btn button{
+    background-color: white;
+    color: black;
+}
+
+.newadd h3{
+    font-weight: 300;
+    font-size: 20px;
+}
