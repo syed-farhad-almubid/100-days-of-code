@@ -36,6 +36,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 40 : Created a basic to do app
 - ✅ Day 41 : Created a emoji changer using html , css and javascript
 - ✅ Day 42 : Practiced asynchronous programming
+- ✅ Day 43 : Practiced promises
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
