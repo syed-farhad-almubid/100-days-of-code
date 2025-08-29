@@ -38,6 +38,10 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 42 : Practiced asynchronous programming
 - ✅ Day 43 : Practiced promises
 - ✅ Day 44 : Practiced fetch, json , async/await
+- ✅ Day 45 : created a counter app
+- ✅ Day 46 : created a calculator using function constructor
+- ✅ Day 47 : created tic tac toe
+- ✅ Day 48 : created a simple quiz game
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
