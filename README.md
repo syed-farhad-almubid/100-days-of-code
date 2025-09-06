@@ -42,6 +42,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 46 : created a calculator using function constructor
 - ✅ Day 47 : created tic tac toe
 - ✅ Day 48 : created a simple quiz game
+- ✅ Day 49 : created a random quote generator
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
