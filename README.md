@@ -43,6 +43,7 @@ This repository tracks my journey of learning full-stack web development.
 - ✅ Day 47 : created tic tac toe
 - ✅ Day 48 : created a simple quiz game
 - ✅ Day 49 : created a random quote generator
+- ✅ Day 50 : started ReactJS
 
 
 Follow my journey on LinkedIn : https://www.linkedin.com/in/syed-farhad-almubid-a5232a282/
